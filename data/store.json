@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "users": [
+    {
+      "id": "dcb82785-7a4f-4bd2-9007-75ca88e86c19",
+      "name": "Musyaffa Hanif Sunni",
+      "email": "gzberhanif@gmail.com",
+      "role": "admin",
+      "passwordSalt": "3878c5cc8377f612485325ee55bc0a5a",
+      "passwordHash": "6c5a32a420c555ea3be030530a23d5c30588d33acc6f9a592e2f4a4f7bba584910ea2afeb8abf3ddb10600b751dfc16736eebdf45ac254b787831afc8d32eb39",
+      "createdAt": "2026-10-22T23:51:27.953Z"
+    }
+  ],
+  "products": [],
+  "orders": [],
+  "settings": {
+    "storeName": "Next Shop",
+    "tagline": "Temukan yang kamu suka.",
+    "description": "Pilihan produk terbaik, pengalaman belanja yang lebih nyaman.",
+    "heroEyebrow": "YOUR NEXT FAVORITE THING",
+    "heroTitle": "Belanja lebih mudah.\nTemukan lebih banyak.",
+    "heroText": "Jelajahi koleksi pilihan dan temukan produk yang cocok buat kamu.",
+    "heroCta": "Jelajahi koleksi",
+    "heroImage": "/uploads/1792720774172-4491a0c343f9a43e.png",
+    "logoImage": "/uploads/1792720774026-fd15c3c65a3b5a70.png",
+    "promoEnabled": false,
+    "promoLabel": "SPECIAL DROP",
+    "promoTitle": "Temukan pilihan spesial minggu ini",
+    "promoText": "Atur pesan promosi dari dashboard admin.",
+    "whatsapp": "",
+    "email": "",
+    "address": "",
+    "instagram": "",
+    "tiktok": "",
+    "shippingInfo": "Informasi pengiriman dikonfirmasi oleh admin setelah pesanan diterima.",
+    "paymentInfo": "Metode pembayaran dikonfirmasi oleh admin. Website ini belum memproses pembayaran otomatis.",
+    "aboutTitle": "Belanja dengan cara yang lebih baik",
+    "aboutText": "Next Shop hadir untuk membuat pengalaman menemukan dan memesan produk menjadi lebih jelas, nyaman, dan mudah.",
+    "vision": "Menghadirkan pengalaman belanja online yang sederhana, aman, dan menyenangkan.",
+    "mission": "Memberikan informasi produk yang jelas, layanan yang responsif, dan proses pemesanan yang transparan.",
+    "developer": "MUSYAFFA HANIF SUNNI",
+    "categories": [
+      "Elektronik",
+      "Fashion",
+      "Komputer & Aksesori",
+      "Gaming",
+      "Rumah Tangga"
+    ]
+  }
+}
